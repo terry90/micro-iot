@@ -1,0 +1,6 @@
+[package]
+name = "micro-iot"
+version = "0.1.0"
+authors = ["Terry Raimondo <terry.raimondo@gmail.com>"]
+
+[dependencies]
